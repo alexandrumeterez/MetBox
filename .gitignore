@@ -1,2 +1,3 @@
 ubuntu_fs/
 .vscode/
+*.o
