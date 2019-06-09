@@ -1,4 +1,4 @@
-//alt test
+//test
 // docker run image <cmd> <params>
 // ./main run       <cmd> <params>
 #include "utils.h"
